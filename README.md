@@ -1,5 +1,7 @@
 # projeto02
-Segundo projeto desenvolvido no curso Explorer da Rocketseat.
+Você pode conferir o projeto aqui:
+
+https://danifeares.github.io/projeto02/projeto%2002/index.html
 
 # Objetivo:
 O projeto tem como objetivo aprendizado básico de algumas funções em HTML e CSS.
